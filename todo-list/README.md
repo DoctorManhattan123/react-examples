@@ -4,6 +4,7 @@ What can be done?
 
 1. Find possible errors
 2. Extend this with CSS
+3. Make so that you can resort the todo items (either with buttons, hotkeys or very advanced via drag and drop, if you want to use drag and drop you can install react-dnd or react-beautiful-dnd for it).
 
 ## Available Scripts
 
